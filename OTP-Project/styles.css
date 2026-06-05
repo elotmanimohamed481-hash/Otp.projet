@@ -1,0 +1,53 @@
+        table {
+            width: 50%;
+            border-collapse: collapse; /* دمج الحدود */
+            margin-top: 10px;
+        }
+        th, td {
+            border: 1px solid #faa404;
+            padding: 8px;
+            margin: 20px auto;
+        }
+        th {
+            background-color: #fc9700; /* لون خلفية رأس الجدول */
+            text-align: center;
+        }
+         table {
+            width: 50%;
+            border-collapse: collapse; /* دمج الحدود */
+            margin-top: 10px;
+        }
+        th, td {
+            border: 1px solid #faa404;
+            padding: 8px;
+            margin: 20px auto;
+        }
+        th {
+            background-color: #fc9700; /* لون خلفية رأس الجدول */
+            text-align: center;
+        }
+       button {
+            background-color: #fc0000;
+            color: rgb(255, 106, 6);
+            border: none;
+            padding: 20px 20px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 20px;
+            margin: 20px 20px;
+            cursor: pointer;
+        }
+      button.a {
+            background-color: #fc0000;
+            color: rgb(255, 106, 6);
+            border: none;
+            padding: 20px 20px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 20px;
+            margin: 20px 20px;
+            cursor: pointer;
+            
+        }
